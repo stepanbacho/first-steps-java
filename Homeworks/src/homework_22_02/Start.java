@@ -12,7 +12,7 @@ public class Start {
         for (Salary employee : employees) {
             finSer.pay(employee);
         }
-        
+
 
     }
 
